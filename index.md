@@ -1,9 +1,4 @@
-<html>
-<head>
-<title> Leena web-tehtävä </title>
-</head>
-<body>
-   
+## Leena web-tehtävä
 # **Italics and Bold**
 Writing in Markdown is _not_ that hard!
 I **will** complete these lessons!
@@ -96,6 +91,3 @@ To doubt they were kneeling then.
 
 2. Pour a gallon of milk into the bowl.  
 Basically, take the same guidance as above: don't be messy, but if you are, clean it up!
-
-</body>
-</html>
